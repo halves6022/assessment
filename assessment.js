@@ -93,6 +93,7 @@
        
        return result;
    }
+/*
 //test code
    console.assert(
        assessment('太郎') === '太郎のいいところは決断力です。太郎がする決断にいつも助けられる人がいます。',
@@ -105,4 +106,5 @@
    //console.log(assessment('太郎'));
    //console.log(assessment('次郎'));
    //console.log(assessment('太郎'));
+*/
 })();
